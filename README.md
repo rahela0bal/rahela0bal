@@ -6,18 +6,20 @@
 ##  ✨ Tech Stack
 
 ### 💻 Languages & Frameworks  
-![Java](https://img.shields.io/badge/Java-D9C1E8?style=for-the-badge&logo=java&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-E8D9E8?style=for-the-badge&logo=node.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-D9C1E8?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E8D9E8?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-D9C1E8?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-E8D9E8?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-D9C1E8?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-808080?style=for-the-badge&logo=java&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-808080?style=for-the-badge&logo=node.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-808080?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-808080?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-808080?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-808080?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-808080?style=for-the-badge&logo=mysql&logoColor=white)
+![SpringMVC](https://img.shields.io/badge/SpringMVC-808080?style=for-the-badge&logo=spring&logoColor=white)
 
 ### 🛠️ Tools  
-![VS Code](https://img.shields.io/badge/VS_Code-E8D9E8?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-D9C1E8?style=for-the-badge&logo=eclipse&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-E8D9E8?style=for-the-badge&logo=apple&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-808080?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-808080?style=for-the-badge&logo=eclipse&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-808080?style=for-the-badge&logo=apple&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-808080?style=for-the-badge&logo=docker&logoColor=white)
 
 
 ## ✨ About Me
