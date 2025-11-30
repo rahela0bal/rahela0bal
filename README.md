@@ -3,8 +3,6 @@
 🎓 2nd-year Computer Science student at **Emanuel University of Oradea**  
 💡 Curious, creative, always learning and improving  
 
----
-
 ##  ✨ Tech Stack
 
 ### 💻 Languages & Frameworks  
@@ -21,40 +19,29 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-D9C1E8?style=for-the-badge&logo=eclipse&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-E8D9E8?style=for-the-badge&logo=apple&logoColor=white)
 
----
 
-## 🌿 About Me
+## ✨ About Me
 
 I’m exploring both **backend** and **frontend** to discover what I enjoy most.  
 This GitHub contains my **university projects**, exercises, and everything I work on during the year.
 
----
-
-## ⚡ Top Project
+## ✨ Top Project
 
 - **Vue.js Project (This Year)** – My main project of the year, combining **frontend skills with Vue.js and TailwindCSS**.
 
----
-
-## 🌱 Currently Learning
+## ✨ Currently Learning
 
 - Advanced Vue.js techniques 
 - Full-stack application development 
 
----
-
-## ⚡ Fun / Personal Projects
+## ✨ Fun / Personal Projects
 
 Check my second GitHub account where I post **fun experiments and personal projects**:  
-[Rahela’s Fun Projects](https://github.com/balta-rahela-denisa)  
+[Rahela’s Fun Projects](https://github.com/balta-rahela-denisa) 
 
----
-
-## 🎨 Goal
+## ✨ Goal
 
 Create a **fully functional web application using Vue.js**, incorporating the techniques I’ve learned.
-
----
 
 ## ✨ Contact
 
